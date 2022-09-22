@@ -1,2 +1,2 @@
 # Cyber-Security-Presentations
-I am the acting President of the UIC Cyber SIG. I make presentations for my club, and I am using Github to back them up incase I need to use them in the future
+Acting President of UIC Cyber Sig since Spring 2021. I've started making backups of presentations incase I have to re-use them later
